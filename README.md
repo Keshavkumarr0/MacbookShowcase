@@ -6,12 +6,8 @@
   ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
   ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
   ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  
-  ### ✨ A Stunning 3D Interactive MacBook Experience ✨
-  
-  [🚀 Live Demo](#) • [📖 Documentation](#) • [🐛 Report Bug](#) • [💡 Request Feature](#)
-  
-  <img src="https://raw.githubusercontent.com/keshavkumarr0/MacbookShow/main/preview.gif" alt="MacBook Showcase Demo" width="800px">
+
+
   
   *Scroll-based 3D animations that bring your MacBook to life*
 
@@ -19,28 +15,7 @@
 
 ---
 
-## 🎥 Preview
 
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://raw.githubusercontent.com/keshavkumarr0/MacbookShow/main/screenshots/hero.png" alt="Hero Section" width="400px"></td>
-      <td><img src="https://raw.githubusercontent.com/keshavkumarr0/MacbookShow/main/screenshots/3d-view.png" alt="3D View" width="400px"></td>
-    </tr>
-    <tr>
-      <td align="center"><b>🎨 Hero Section</b></td>
-      <td align="center"><b>🔮 3D Interactive View</b></td>
-    </tr>
-    <tr>
-      <td><img src="https://raw.githubusercontent.com/keshavkumarr0/MacbookShow/main/screenshots/scroll.png" alt="Scroll Animation" width="400px"></td>
-      <td><img src="https://raw.githubusercontent.com/keshavkumarr0/MacbookShow/main/screenshots/details.png" alt="Details View" width="400px"></td>
-    </tr>
-    <tr>
-      <td align="center"><b>📜 Scroll Animations</b></td>
-      <td align="center"><b>💎 Product Details</b></td>
-    </tr>
-  </table>
-</div>
 
 ---
 
