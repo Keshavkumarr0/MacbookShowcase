@@ -7,17 +7,18 @@
   ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
   ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-
-  
   *Scroll-based 3D animations that bring your MacBook to life*
 
+
+
+  🎯 LIVE LINK ------ https://macbook-showcase.vercel.app/
+
 </div>
+    
+    
+    🎯 LIVE LINK ------ https://macbook-showcase.vercel.app/
 
----
 
-
-
----
 
 ## 🚀 Features
 
