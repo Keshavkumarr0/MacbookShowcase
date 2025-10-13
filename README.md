@@ -28,7 +28,7 @@
       
 ### 🎯 Core Features
       
-- 🖥️ **Realistic 3D MacBook Model**
+ 🖥️ **Realistic 3D MacBook Model**
   - High-quality textures
   - Accurate proportions
   - Smooth reflections
