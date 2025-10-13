@@ -11,7 +11,6 @@
 
 
 
-  🎯 LIVE LINK ------ https://macbook-showcase.vercel.app/
 
 </div>
     
