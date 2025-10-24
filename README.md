@@ -15,7 +15,7 @@
 </div>
     
     
-    🎯 LIVE LINK ------ https://macbook-showcase.vercel.app/
+    🎯 LIVE LINK -- https://macbook-showcase.vercel.app/
 
 
 
